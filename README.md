@@ -4,7 +4,7 @@ Bu repo Kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 ## Installation 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-git clone https://github.com/pecomu/kodluyoruzrepo.git
+git clone https://github.com/pecomu/kodluyoruzilkrepo
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
@@ -16,3 +16,4 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
+[Mit] (https://choosealicense.com/licenses/mit/)
