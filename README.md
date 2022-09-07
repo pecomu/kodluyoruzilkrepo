@@ -1,5 +1,3 @@
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Bu repo Kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
@@ -19,5 +17,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[MIT] (https://choosealicense.com/licenses/mit/)
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+[MIT](https://choosealicense.com/licenses/mit/)
+
+![Mehmet-Sercan-Aslan](https://media-exp1.licdn.com/dms/image/C4D03AQFMDde9amrW2g/profile-displayphoto-shrink_200_200/0/1646283616505?e=1668038400&v=beta&t=GRXUAyzEsgmZxBaJb1NV5MADj5iEs_0sQ05tNbTLzoQ)
